@@ -1,69 +1,9 @@
 {
-  "CHF": {
-    "code": "CHF",
+  "AED": {
+    "code": "AED",
     "decimals": 2,
-    "description": "Swiss franc",
-    "symbol": "Fr."
-  },
-  "MXN": {
-    "code": "MXN",
-    "decimals": 2,
-    "description": "Mexican peso",
-    "symbol": "$"
-  },
-  "QAR": {
-    "code": "QAR",
-    "decimals": 2,
-    "description": "Qatari riyal",
-    "symbol": "QR"
-  },
-  "KZT": {
-    "code": "KZT",
-    "decimals": 2,
-    "description": "Kazakhstani tenge",
-    "symbol": "₸"
-  },
-  "SAR": {
-    "code": "SAR",
-    "decimals": 2,
-    "description": "Saudi Riyal",
-    "symbol": "ر.س"
-  },
-  "CLP": {
-    "code": "CLP",
-    "decimals": 2,
-    "description": "Chilean peso",
-    "symbol": "$"
-  },
-  "ZAR": {
-    "code": "ZAR",
-    "decimals": 2,
-    "description": "South African Rand",
-    "symbol": "R"
-  },
-  "INR": {
-    "code": "INR",
-    "decimals": 2,
-    "description": "Indian Rupee",
-    "symbol": "₹"
-  },
-  "VND": {
-    "code": "VND",
-    "decimals": 0,
-    "description": "Vietnamese dong",
-    "symbol": "₫"
-  },
-  "THB": {
-    "code": "THB",
-    "decimals": 2,
-    "description": "Thai baht",
-    "symbol": "฿"
-  },
-  "CNY": {
-    "code": "CNY",
-    "decimals": 2,
-    "description": "Chinese Yuan",
-    "symbol": "¥"
+    "description": "United Arab Emirates Dirham",
+    "symbol": "د.إ"
   },
   "AUD": {
     "code": "AUD",
@@ -71,95 +11,41 @@
     "description": "Australian Dollar",
     "symbol": "$"
   },
-  "KRW": {
-    "code": "KRW",
-    "decimals": 0,
-    "description": "South Korean Won",
-    "symbol": "₩"
-  },
-  "ILS": {
-    "code": "ILS",
+  "BGN": {
+    "code": "BGN",
     "decimals": 2,
-    "description": "Israeli new shekel",
-    "symbol": "₪"
+    "description": "Bulgarian lev",
+    "symbol": "лв."
   },
-  "JPY": {
-    "code": "JPY",
-    "decimals": 0,
-    "description": "Japanese yen",
-    "symbol": "¥"
-  },
-  "PLN": {
-    "code": "PLN",
+  "BRL": {
+    "code": "BRL",
     "decimals": 2,
-    "description": "Polish Zloty",
-    "symbol": "zł"
+    "description": "Brazilian Real",
+    "symbol": "R$"
   },
-  "GBP": {
-    "code": "GBP",
+  "CAD": {
+    "code": "CAD",
     "decimals": 2,
-    "description": "GBP British Pound",
-    "symbol": "£"
-  },
-  "IDR": {
-    "code": "IDR",
-    "decimals": 2,
-    "description": "Indonesian rupiah",
-    "symbol": "Rp"
-  },
-  "HUF": {
-    "code": "HUF",
-    "decimals": 2,
-    "description": "Hungarian forint",
-    "symbol": "Ft"
-  },
-  "PHP": {
-    "code": "PHP",
-    "decimals": 2,
-    "description": "Philippine peso",
-    "symbol": "₱"
-  },
-  "TRY": {
-    "code": "TRY",
-    "decimals": 2,
-    "description": "Turkish Lira",
-    "symbol": "₺"
-  },
-  "RUB": {
-    "code": "RUB",
-    "decimals": 2,
-    "description": "Russian Ruble",
-    "symbol": "₽"
-  },
-  "AED": {
-    "code": "AED",
-    "decimals": 2,
-    "description": "United Arab Emirates Dirham",
-    "symbol": "د.إ"
-  },
-  "HKD": {
-    "code": "HKD",
-    "decimals": 2,
-    "description": "Hong Kong dollar",
+    "description": "Canadian dollar",
     "symbol": "$"
   },
-  "TWD": {
-    "code": "TWD",
+  "CHF": {
+    "code": "CHF",
     "decimals": 2,
-    "description": "New Taiwan dollar",
-    "symbol": "NT$"
+    "description": "Swiss franc",
+    "symbol": "Fr."
   },
-  "EUR": {
-    "code": "EUR",
+  "CLP": {
+    "code": "CLP",
     "decimals": 2,
-    "description": "EUR Description",
-    "symbol": "€"
+    "description": "Chilean peso",
+    "symbol": "$"
   },
-  "DKK": {
-    "code": "DKK",
+  "CNY": {
+    "code": "CNY",
     "decimals": 2,
-    "description": "Danish Krona",
-    "symbol": "kr."
+    "description": "Chinese Yuan",
+    "symbol": "¥"
   },
   "COP": {
     "code": "COP",
@@ -167,16 +53,88 @@
     "description": "Colombia Pesos",
     "symbol": "$"
   },
-  "USD": {
-    "code": "USD",
+  "CRC": {
+    "code": "CRC",
     "decimals": 2,
-    "description": "USD Description",
+    "description": "Costa Rican colon",
+    "symbol": "₡"
+  },
+  "CZK": {
+    "code": "CZK",
+    "decimals": 2,
+    "description": "Czech koruna",
+    "symbol": "Kč"
+  },
+  "DKK": {
+    "code": "DKK",
+    "decimals": 2,
+    "description": "Danish Krona",
+    "symbol": "kr."
+  },
+  "EUR": {
+    "code": "EUR",
+    "decimals": 2,
+    "description": "EUR Description",
+    "symbol": "€"
+  },
+  "GBP": {
+    "code": "GBP",
+    "decimals": 2,
+    "description": "GBP British Pound",
+    "symbol": "£"
+  },
+  "HKD": {
+    "code": "HKD",
+    "decimals": 2,
+    "description": "Hong Kong dollar",
     "symbol": "$"
   },
-  "CAD": {
-    "code": "CAD",
+  "HUF": {
+    "code": "HUF",
     "decimals": 2,
-    "description": "Canadian dollar",
+    "description": "Hungarian forint",
+    "symbol": "Ft"
+  },
+  "IDR": {
+    "code": "IDR",
+    "decimals": 2,
+    "description": "Indonesian rupiah",
+    "symbol": "Rp"
+  },
+  "ILS": {
+    "code": "ILS",
+    "decimals": 2,
+    "description": "Israeli new shekel",
+    "symbol": "₪"
+  },
+  "INR": {
+    "code": "INR",
+    "decimals": 2,
+    "description": "Indian Rupee",
+    "symbol": "₹"
+  },
+  "JPY": {
+    "code": "JPY",
+    "decimals": 0,
+    "description": "Japanese yen",
+    "symbol": "¥"
+  },
+  "KRW": {
+    "code": "KRW",
+    "decimals": 0,
+    "description": "South Korean Won",
+    "symbol": "₩"
+  },
+  "KZT": {
+    "code": "KZT",
+    "decimals": 2,
+    "description": "Kazakhstani tenge",
+    "symbol": "₸"
+  },
+  "MXN": {
+    "code": "MXN",
+    "decimals": 2,
+    "description": "Mexican peso",
     "symbol": "$"
   },
   "MYR": {
@@ -185,59 +143,11 @@
     "description": "Malaysian ringgit",
     "symbol": "RM"
   },
-  "BGN": {
-    "code": "BGN",
-    "decimals": 2,
-    "description": "Bulgarian lev",
-    "symbol": "лв."
-  },
   "NOK": {
     "code": "NOK",
     "decimals": 2,
     "description": "Norwegian Krona",
     "symbol": "kr"
-  },
-  "RON": {
-    "code": "RON",
-    "decimals": 2,
-    "description": "Romanian Leu",
-    "symbol": "lei"
-  },
-  "UYU": {
-    "code": "UYU",
-    "decimals": 2,
-    "description": "Uruguayan peso",
-    "symbol": "$"
-  },
-  "SGD": {
-    "code": "SGD",
-    "decimals": 2,
-    "description": "Singapore dollar",
-    "symbol": "S$"
-  },
-  "CZK": {
-    "code": "CZK",
-    "decimals": 2,
-    "description": "Czech koruna",
-    "symbol": "Kč"
-  },
-  "CRC": {
-    "code": "CRC",
-    "decimals": 2,
-    "description": "Costa Rican colon",
-    "symbol": "₡"
-  },
-  "SEK": {
-    "code": "SEK",
-    "decimals": 2,
-    "description": "Swedish Krona",
-    "symbol": "kr"
-  },
-  "PEN": {
-    "code": "PEN",
-    "decimals": 2,
-    "description": "Peruvian sol",
-    "symbol": "S/"
   },
   "NZD": {
     "code": "NZD",
@@ -245,16 +155,106 @@
     "description": "New Zealand Dollar",
     "symbol": "$"
   },
+  "PEN": {
+    "code": "PEN",
+    "decimals": 2,
+    "description": "Peruvian sol",
+    "symbol": "S/"
+  },
+  "PHP": {
+    "code": "PHP",
+    "decimals": 2,
+    "description": "Philippine peso",
+    "symbol": "₱"
+  },
+  "PLN": {
+    "code": "PLN",
+    "decimals": 2,
+    "description": "Polish Zloty",
+    "symbol": "zł"
+  },
+  "QAR": {
+    "code": "QAR",
+    "decimals": 2,
+    "description": "Qatari riyal",
+    "symbol": "QR"
+  },
+  "RON": {
+    "code": "RON",
+    "decimals": 2,
+    "description": "Romanian Leu",
+    "symbol": "lei"
+  },
+  "RUB": {
+    "code": "RUB",
+    "decimals": 2,
+    "description": "Russian Ruble",
+    "symbol": "₽"
+  },
+  "SAR": {
+    "code": "SAR",
+    "decimals": 2,
+    "description": "Saudi Riyal",
+    "symbol": "ر.س"
+  },
+  "SEK": {
+    "code": "SEK",
+    "decimals": 2,
+    "description": "Swedish Krona",
+    "symbol": "kr"
+  },
+  "SGD": {
+    "code": "SGD",
+    "decimals": 2,
+    "description": "Singapore dollar",
+    "symbol": "S$"
+  },
+  "THB": {
+    "code": "THB",
+    "decimals": 2,
+    "description": "Thai baht",
+    "symbol": "฿"
+  },
+  "TRY": {
+    "code": "TRY",
+    "decimals": 2,
+    "description": "Turkish Lira",
+    "symbol": "₺"
+  },
+  "TWD": {
+    "code": "TWD",
+    "decimals": 2,
+    "description": "New Taiwan dollar",
+    "symbol": "NT$"
+  },
   "UAH": {
     "code": "UAH",
     "decimals": 2,
     "description": "Ukraine Hryvnia",
     "symbol": "₴"
   },
-  "BRL": {
-    "code": "BRL",
+  "USD": {
+    "code": "USD",
     "decimals": 2,
-    "description": "Brazilian Real",
-    "symbol": "R$"
+    "description": "USD Description",
+    "symbol": "$"
+  },
+  "UYU": {
+    "code": "UYU",
+    "decimals": 2,
+    "description": "Uruguayan peso",
+    "symbol": "$"
+  },
+  "VND": {
+    "code": "VND",
+    "decimals": 0,
+    "description": "Vietnamese dong",
+    "symbol": "₫"
+  },
+  "ZAR": {
+    "code": "ZAR",
+    "decimals": 2,
+    "description": "South African Rand",
+    "symbol": "R"
   }
 }
