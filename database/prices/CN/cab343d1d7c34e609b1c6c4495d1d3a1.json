@@ -2,18 +2,18 @@
   "id": "cab343d1d7c34e609b1c6c4495d1d3a1",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 800,
+      "paymentCurrencyAmount": 400,
       "paymentCurrencyCode": "CNY",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "¥"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 115,
+      "basePayoutPrice": 57,
       "convenienceFee": 0,
       "currencyCode": "CNY",
-      "discount": 0,
-      "discountPrice": 800,
+      "discount": 400,
+      "discountPrice": 400,
       "originalPrice": 800,
       "originalUnitPrice": null,
       "unitPrice": null,
