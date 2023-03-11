@@ -2,22 +2,22 @@
   "id": "0decf987987940edb576bcf42bb21570",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 6499,
-      "paymentCurrencyCode": "PLN",
+      "paymentCurrencyAmount": 13000,
+      "paymentCurrencyCode": "NOK",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "zł"
+      "paymentCurrencySymbol": "kr"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1204,
+      "basePayoutPrice": 979,
       "convenienceFee": 0,
-      "currencyCode": "PLN",
+      "currencyCode": "NOK",
       "discount": 0,
-      "discountPrice": 6499,
-      "originalPrice": 6499,
+      "discountPrice": 13000,
+      "originalPrice": 13000,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 1215,
+      "vat": 2600,
       "voucherDiscount": 0
     }
   }
