@@ -1,23 +1,23 @@
 {
-  "id": "c7fcbd662a504064bc35c7e23396e705",
+  "id": "fa1151d6ee7c4fcdb412063c35d08f11",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 9900,
-      "paymentCurrencyCode": "CNY",
+      "paymentCurrencyAmount": 3300,
+      "paymentCurrencyCode": "PLN",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "¥"
+      "paymentCurrencySymbol": "zł"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1438,
+      "basePayoutPrice": 617,
       "convenienceFee": 0,
-      "currencyCode": "CNY",
+      "currencyCode": "PLN",
       "discount": 0,
-      "discountPrice": 9900,
-      "originalPrice": 9900,
+      "discountPrice": 3300,
+      "originalPrice": 3300,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 0,
+      "vat": 617,
       "voucherDiscount": 0
     }
   }

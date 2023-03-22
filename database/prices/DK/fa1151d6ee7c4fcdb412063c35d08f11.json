@@ -1,23 +1,23 @@
 {
-  "id": "c7fcbd662a504064bc35c7e23396e705",
+  "id": "fa1151d6ee7c4fcdb412063c35d08f11",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 9900,
-      "paymentCurrencyCode": "CNY",
+      "paymentCurrencyAmount": 5100,
+      "paymentCurrencyCode": "DKK",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "¥"
+      "paymentCurrencySymbol": "kr."
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1438,
+      "basePayoutPrice": 590,
       "convenienceFee": 0,
-      "currencyCode": "CNY",
+      "currencyCode": "DKK",
       "discount": 0,
-      "discountPrice": 9900,
-      "originalPrice": 9900,
+      "discountPrice": 5100,
+      "originalPrice": 5100,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 0,
+      "vat": 1020,
       "voucherDiscount": 0
     }
   }
