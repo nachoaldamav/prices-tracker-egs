@@ -2,22 +2,22 @@
   "id": "f8470811788e4f9792ac6590781fec8a",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 4999,
+      "paymentCurrencyAmount": 9999,
       "paymentCurrencyCode": "NOK",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "kr"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 378,
+      "basePayoutPrice": 755,
       "convenienceFee": 0,
       "currencyCode": "NOK",
-      "discount": 5000,
-      "discountPrice": 4999,
+      "discount": 0,
+      "discountPrice": 9999,
       "originalPrice": 9999,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 1000,
+      "vat": 2000,
       "voucherDiscount": 0
     }
   }
