@@ -1,23 +1,23 @@
 {
-  "id": "5eb27cf1747c40b5a0d4f5492774678d",
+  "id": "2e0c16f65d0748fe93e5c945aa69e648",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 1999,
-      "paymentCurrencyCode": "CHF",
+      "paymentCurrencyAmount": 7200,
+      "paymentCurrencyCode": "NOK",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "Fr."
+      "paymentCurrencySymbol": "kr"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 2080,
+      "basePayoutPrice": 544,
       "convenienceFee": 0,
-      "currencyCode": "CHF",
+      "currencyCode": "NOK",
       "discount": 0,
-      "discountPrice": 1999,
-      "originalPrice": 1999,
+      "discountPrice": 7200,
+      "originalPrice": 7200,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 143,
+      "vat": 1440,
       "voucherDiscount": 0
     }
   }
