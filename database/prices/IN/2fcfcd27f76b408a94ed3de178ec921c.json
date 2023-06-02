@@ -1,23 +1,23 @@
 {
-  "id": "31eee7920ac04ed5ab75fb193a010c94",
+  "id": "2fcfcd27f76b408a94ed3de178ec921c",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 559,
-      "paymentCurrencyCode": "CAD",
+      "paymentCurrencyAmount": 3500,
+      "paymentCurrencyCode": "INR",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "$"
+      "paymentCurrencySymbol": "₹"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 416,
+      "basePayoutPrice": 36,
       "convenienceFee": 0,
-      "currencyCode": "CAD",
+      "currencyCode": "INR",
       "discount": 0,
-      "discountPrice": 559,
-      "originalPrice": 559,
+      "discountPrice": 3500,
+      "originalPrice": 3500,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 0,
+      "vat": 534,
       "voucherDiscount": 0
     }
   }
