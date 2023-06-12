@@ -1,23 +1,23 @@
 {
-  "id": "09e93226982146418cadd046cdd292af",
+  "id": "efcdd141c11647179b70b9f76cbe9ab3",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 9900,
-      "paymentCurrencyCode": "PLN",
+      "paymentCurrencyAmount": 0,
+      "paymentCurrencyCode": "UAH",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "zł"
+      "paymentCurrencySymbol": "₴"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1947,
+      "basePayoutPrice": 0,
       "convenienceFee": 0,
-      "currencyCode": "PLN",
+      "currencyCode": "UAH",
       "discount": 0,
-      "discountPrice": 9900,
-      "originalPrice": 9900,
+      "discountPrice": 0,
+      "originalPrice": 0,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 1851,
+      "vat": 0,
       "voucherDiscount": 0
     }
   }
