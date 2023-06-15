@@ -2,22 +2,22 @@
   "id": "f56316327db94a3aa42539dcfe4b649e",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 2560,
+      "paymentCurrencyAmount": 3200,
       "paymentCurrencyCode": "DKK",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "kr."
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 298,
+      "basePayoutPrice": 372,
       "convenienceFee": 0,
       "currencyCode": "DKK",
-      "discount": 640,
-      "discountPrice": 2560,
+      "discount": 0,
+      "discountPrice": 3200,
       "originalPrice": 3200,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 512,
+      "vat": 640,
       "voucherDiscount": 0
     }
   }
