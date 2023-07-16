@@ -1,23 +1,23 @@
 {
-  "id": "190b14255fa943c9bcd05d3b83cc8924",
+  "id": "70de1a5377aa4eb4a7fe08c9a8c1d39b",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 7395,
-      "paymentCurrencyCode": "ILS",
+      "paymentCurrencyAmount": 199,
+      "paymentCurrencyCode": "CHF",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "₪"
+      "paymentCurrencySymbol": "Fr."
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 2049,
+      "basePayoutPrice": 214,
       "convenienceFee": 0,
-      "currencyCode": "ILS",
+      "currencyCode": "CHF",
       "discount": 0,
-      "discountPrice": 7395,
-      "originalPrice": 7395,
+      "discountPrice": 199,
+      "originalPrice": 199,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 0,
+      "vat": 14,
       "voucherDiscount": 0
     }
   }

@@ -1,23 +1,23 @@
 {
-  "id": "190b14255fa943c9bcd05d3b83cc8924",
+  "id": "70de1a5377aa4eb4a7fe08c9a8c1d39b",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 7395,
-      "paymentCurrencyCode": "ILS",
+      "paymentCurrencyAmount": 1200,
+      "paymentCurrencyCode": "DKK",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "₪"
+      "paymentCurrencySymbol": "kr."
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 2049,
+      "basePayoutPrice": 145,
       "convenienceFee": 0,
-      "currencyCode": "ILS",
+      "currencyCode": "DKK",
       "discount": 0,
-      "discountPrice": 7395,
-      "originalPrice": 7395,
+      "discountPrice": 1200,
+      "originalPrice": 1200,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 0,
+      "vat": 240,
       "voucherDiscount": 0
     }
   }
