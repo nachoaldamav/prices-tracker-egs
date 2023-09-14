@@ -2,22 +2,22 @@
   "id": "0e40ed27d9a5414ca50cf07712a3bdb8",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 2427,
+      "paymentCurrencyAmount": 2062,
       "paymentCurrencyCode": "EUR",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "€"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 2153,
+      "basePayoutPrice": 1830,
       "convenienceFee": 0,
       "currencyCode": "EUR",
-      "discount": 0,
-      "discountPrice": 2427,
+      "discount": 365,
+      "discountPrice": 2062,
       "originalPrice": 2427,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 421,
+      "vat": 358,
       "voucherDiscount": 0
     }
   }
