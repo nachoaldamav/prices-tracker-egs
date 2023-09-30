@@ -2,19 +2,19 @@
   "id": "802eeceb5d22439792cdb402b81bb2bc",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 0,
+      "paymentCurrencyAmount": 10175,
       "paymentCurrencyCode": "BRL",
-      "paymentCurrencyExchangeRate": null,
+      "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "R$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 0,
+      "basePayoutPrice": 2021,
       "convenienceFee": 0,
-      "currencyCode": "USD",
+      "currencyCode": "BRL",
       "discount": 0,
-      "discountPrice": 0,
-      "originalPrice": 0,
+      "discountPrice": 10175,
+      "originalPrice": 10175,
       "originalUnitPrice": null,
       "unitPrice": null,
       "vat": 0,
