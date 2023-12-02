@@ -1,23 +1,23 @@
 {
-  "id": "fbe90b29d4924e90a71019914c396171",
+  "id": "30eb1548000d4d749e0d65fca419187b",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 500,
-      "paymentCurrencyCode": "CHF",
+      "paymentCurrencyAmount": 15000,
+      "paymentCurrencyCode": "RUB",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "Fr."
+      "paymentCurrencySymbol": "₽"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 534,
+      "basePayoutPrice": 165,
       "convenienceFee": 0,
-      "currencyCode": "CHF",
+      "currencyCode": "RUB",
       "discount": 0,
-      "discountPrice": 500,
-      "originalPrice": 500,
+      "discountPrice": 15000,
+      "originalPrice": 15000,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 36,
+      "vat": 0,
       "voucherDiscount": 0
     }
   }
