@@ -1,0 +1,24 @@
+{
+  "id": "e0a38d37224048cf90bdc3acba1a14f7",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 9990,
+      "paymentCurrencyCode": "PLN",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "zł"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 2020,
+      "convenienceFee": 0,
+      "currencyCode": "PLN",
+      "discount": 0,
+      "discountPrice": 9990,
+      "originalPrice": 9990,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 1868,
+      "voucherDiscount": 0
+    }
+  }
+}
