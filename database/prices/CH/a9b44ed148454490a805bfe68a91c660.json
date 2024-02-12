@@ -2,22 +2,22 @@
   "id": "a9b44ed148454490a805bfe68a91c660",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 133,
+      "paymentCurrencyAmount": 199,
       "paymentCurrencyCode": "CHF",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "Fr."
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 141,
+      "basePayoutPrice": 210,
       "convenienceFee": 0,
       "currencyCode": "CHF",
-      "discount": 66,
-      "discountPrice": 133,
+      "discount": 0,
+      "discountPrice": 199,
       "originalPrice": 199,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 10,
+      "vat": 15,
       "voucherDiscount": 0
     }
   }
