@@ -2,22 +2,22 @@
   "id": "2bcffa164bd247afb8f67f7fcbce709a",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 11600,
+      "paymentCurrencyAmount": 10440,
       "paymentCurrencyCode": "TRY",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "₺"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 301,
+      "basePayoutPrice": 271,
       "convenienceFee": 0,
       "currencyCode": "TRY",
-      "discount": 0,
-      "discountPrice": 11600,
+      "discount": 1160,
+      "discountPrice": 10440,
       "originalPrice": 11600,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 1933,
+      "vat": 1740,
       "voucherDiscount": 0
     }
   }
