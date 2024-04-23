@@ -1,0 +1,24 @@
+{
+  "id": "5d1deaddc91b4425898628a681eacaf5",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 1990,
+      "paymentCurrencyCode": "CHF",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "Fr."
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 2019,
+      "convenienceFee": 0,
+      "currencyCode": "CHF",
+      "discount": 0,
+      "discountPrice": 1990,
+      "originalPrice": 1990,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 149,
+      "voucherDiscount": 0
+    }
+  }
+}
