@@ -1,0 +1,24 @@
+{
+  "id": "bed5c61205ef4e45bd78da371890cbf6",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 23700,
+      "paymentCurrencyCode": "CZK",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "Kč"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 830,
+      "convenienceFee": 0,
+      "currencyCode": "CZK",
+      "discount": 15800,
+      "discountPrice": 23700,
+      "originalPrice": 39500,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 4113,
+      "voucherDiscount": 0
+    }
+  }
+}

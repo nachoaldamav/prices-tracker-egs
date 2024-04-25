@@ -1,0 +1,24 @@
+{
+  "id": "bed5c61205ef4e45bd78da371890cbf6",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 12000000,
+      "paymentCurrencyCode": "IDR",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "Rp"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 666,
+      "convenienceFee": 0,
+      "currencyCode": "IDR",
+      "discount": 8000000,
+      "discountPrice": 12000000,
+      "originalPrice": 20000000,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 1189189,
+      "voucherDiscount": 0
+    }
+  }
+}
