@@ -1,0 +1,24 @@
+{
+  "id": "53dd1fe9545e4297943653d21afcd22b",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 2500,
+      "paymentCurrencyCode": "HKD",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "$"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 320,
+      "convenienceFee": 0,
+      "currencyCode": "HKD",
+      "discount": 10000,
+      "discountPrice": 2500,
+      "originalPrice": 12500,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}

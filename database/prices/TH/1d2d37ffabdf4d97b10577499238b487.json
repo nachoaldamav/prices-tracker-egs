@@ -1,0 +1,24 @@
+{
+  "id": "1d2d37ffabdf4d97b10577499238b487",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 80000,
+      "paymentCurrencyCode": "THB",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "฿"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 2044,
+      "convenienceFee": 0,
+      "currencyCode": "THB",
+      "discount": 0,
+      "discountPrice": 80000,
+      "originalPrice": 80000,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 5234,
+      "voucherDiscount": 0
+    }
+  }
+}

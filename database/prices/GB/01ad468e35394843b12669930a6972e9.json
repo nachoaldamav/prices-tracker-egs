@@ -1,0 +1,24 @@
+{
+  "id": "01ad468e35394843b12669930a6972e9",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 3100,
+      "paymentCurrencyCode": "GBP",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "£"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 3305,
+      "convenienceFee": 0,
+      "currencyCode": "GBP",
+      "discount": 0,
+      "discountPrice": 3100,
+      "originalPrice": 3100,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 517,
+      "voucherDiscount": 0
+    }
+  }
+}

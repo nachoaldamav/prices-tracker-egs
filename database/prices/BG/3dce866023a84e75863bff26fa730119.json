@@ -1,0 +1,24 @@
+{
+  "id": "3dce866023a84e75863bff26fa730119",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 839,
+      "paymentCurrencyCode": "BGN",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "лв."
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 389,
+      "convenienceFee": 0,
+      "currencyCode": "BGN",
+      "discount": 210,
+      "discountPrice": 839,
+      "originalPrice": 1049,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 140,
+      "voucherDiscount": 0
+    }
+  }
+}

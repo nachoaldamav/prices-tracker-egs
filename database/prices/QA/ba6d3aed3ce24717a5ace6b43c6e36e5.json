@@ -1,0 +1,24 @@
+{
+  "id": "ba6d3aed3ce24717a5ace6b43c6e36e5",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 4000,
+      "paymentCurrencyCode": "QAR",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "QR"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 1099,
+      "convenienceFee": 0,
+      "currencyCode": "QAR",
+      "discount": 4000,
+      "discountPrice": 4000,
+      "originalPrice": 8000,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
