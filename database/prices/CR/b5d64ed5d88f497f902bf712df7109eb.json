@@ -1,0 +1,24 @@
+{
+  "id": "b5d64ed5d88f497f902bf712df7109eb",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 240000,
+      "paymentCurrencyCode": "CRC",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "₡"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 456,
+      "convenienceFee": 0,
+      "currencyCode": "CRC",
+      "discount": 0,
+      "discountPrice": 240000,
+      "originalPrice": 240000,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
