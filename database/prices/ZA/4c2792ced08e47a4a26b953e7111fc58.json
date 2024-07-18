@@ -2,22 +2,22 @@
   "id": "4c2792ced08e47a4a26b953e7111fc58",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 6200,
+      "paymentCurrencyAmount": 3100,
       "paymentCurrencyCode": "ZAR",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "R"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 299,
+      "basePayoutPrice": 148,
       "convenienceFee": 0,
       "currencyCode": "ZAR",
-      "discount": 0,
-      "discountPrice": 6200,
+      "discount": 3100,
+      "discountPrice": 3100,
       "originalPrice": 6200,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 809,
+      "vat": 404,
       "voucherDiscount": 0
     }
   }
