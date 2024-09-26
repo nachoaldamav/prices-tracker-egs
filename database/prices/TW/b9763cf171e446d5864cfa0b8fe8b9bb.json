@@ -2,22 +2,22 @@
   "id": "b9763cf171e446d5864cfa0b8fe8b9bb",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 32800,
+      "paymentCurrencyAmount": 0,
       "paymentCurrencyCode": "TWD",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "NT$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 983,
+      "basePayoutPrice": 0,
       "convenienceFee": 0,
       "currencyCode": "TWD",
-      "discount": 0,
-      "discountPrice": 32800,
+      "discount": 32800,
+      "discountPrice": 0,
       "originalPrice": 32800,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 1600,
+      "vat": 0,
       "voucherDiscount": 0
     }
   }
