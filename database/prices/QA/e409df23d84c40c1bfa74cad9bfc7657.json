@@ -2,18 +2,18 @@
   "id": "e409df23d84c40c1bfa74cad9bfc7657",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 200,
+      "paymentCurrencyAmount": 400,
       "paymentCurrencyCode": "QAR",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "QR"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 55,
+      "basePayoutPrice": 110,
       "convenienceFee": 0,
       "currencyCode": "QAR",
-      "discount": 200,
-      "discountPrice": 200,
+      "discount": 0,
+      "discountPrice": 400,
       "originalPrice": 400,
       "originalUnitPrice": null,
       "unitPrice": null,
