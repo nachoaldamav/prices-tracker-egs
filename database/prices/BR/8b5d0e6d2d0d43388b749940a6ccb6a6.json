@@ -2,18 +2,18 @@
   "id": "8b5d0e6d2d0d43388b749940a6ccb6a6",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 6699,
+      "paymentCurrencyAmount": 0,
       "paymentCurrencyCode": "BRL",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "R$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1109,
+      "basePayoutPrice": 0,
       "convenienceFee": 0,
       "currencyCode": "BRL",
-      "discount": 0,
-      "discountPrice": 6699,
+      "discount": 6699,
+      "discountPrice": 0,
       "originalPrice": 6699,
       "originalUnitPrice": null,
       "unitPrice": null,

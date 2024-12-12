@@ -2,18 +2,18 @@
   "id": "a7bbf37b099b46b68763f52572d70765",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 250000,
+      "paymentCurrencyAmount": 150000,
       "paymentCurrencyCode": "CRC",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "₡"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 493,
+      "basePayoutPrice": 296,
       "convenienceFee": 0,
       "currencyCode": "CRC",
-      "discount": 0,
-      "discountPrice": 250000,
+      "discount": 100000,
+      "discountPrice": 150000,
       "originalPrice": 250000,
       "originalUnitPrice": null,
       "unitPrice": null,

@@ -2,22 +2,22 @@
   "id": "ee0a9e72ef4c4e5fa91b2993b00f0356",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 500000,
+      "paymentCurrencyAmount": 400000,
       "paymentCurrencyCode": "COP",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 95,
+      "basePayoutPrice": 77,
       "convenienceFee": 0,
       "currencyCode": "COP",
-      "discount": 0,
-      "discountPrice": 500000,
+      "discount": 100000,
+      "discountPrice": 400000,
       "originalPrice": 500000,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 79832,
+      "vat": 63866,
       "voucherDiscount": 0
     }
   }

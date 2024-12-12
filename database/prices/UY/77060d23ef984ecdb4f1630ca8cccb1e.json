@@ -2,22 +2,22 @@
   "id": "77060d23ef984ecdb4f1630ca8cccb1e",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 200000,
+      "paymentCurrencyAmount": 50000,
       "paymentCurrencyCode": "UYU",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 3748,
+      "basePayoutPrice": 930,
       "convenienceFee": 0,
       "currencyCode": "UYU",
-      "discount": 0,
-      "discountPrice": 200000,
+      "discount": 150000,
+      "discountPrice": 50000,
       "originalPrice": 200000,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 36066,
+      "vat": 9016,
       "voucherDiscount": 0
     }
   }

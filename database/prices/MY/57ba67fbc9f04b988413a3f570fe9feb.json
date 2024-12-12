@@ -2,22 +2,22 @@
   "id": "57ba67fbc9f04b988413a3f570fe9feb",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 1250,
+      "paymentCurrencyAmount": 625,
       "paymentCurrencyCode": "MYR",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "RM"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 261,
+      "basePayoutPrice": 131,
       "convenienceFee": 0,
       "currencyCode": "MYR",
-      "discount": 0,
-      "discountPrice": 1250,
+      "discount": 625,
+      "discountPrice": 625,
       "originalPrice": 1250,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 93,
+      "vat": 46,
       "voucherDiscount": 0
     }
   }
