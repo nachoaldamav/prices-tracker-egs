@@ -2,22 +2,22 @@
   "id": "caff500b09924924a8483686d909e391",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 27000,
+      "paymentCurrencyAmount": 24300,
       "paymentCurrencyCode": "THB",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "฿"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 729,
+      "basePayoutPrice": 657,
       "convenienceFee": 0,
       "currencyCode": "THB",
-      "discount": 0,
-      "discountPrice": 27000,
+      "discount": 2700,
+      "discountPrice": 24300,
       "originalPrice": 27000,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 1766,
+      "vat": 1590,
       "voucherDiscount": 0
     }
   }

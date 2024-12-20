@@ -2,22 +2,22 @@
   "id": "c537804cb98e42bebdafe33c5e88d194",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 11599,
+      "paymentCurrencyAmount": 0,
       "paymentCurrencyCode": "RON",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "lei"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 2028,
+      "basePayoutPrice": 0,
       "convenienceFee": 0,
       "currencyCode": "RON",
-      "discount": 0,
-      "discountPrice": 11599,
+      "discount": 11599,
+      "discountPrice": 0,
       "originalPrice": 11599,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 1852,
+      "vat": 0,
       "voucherDiscount": 0
     }
   }

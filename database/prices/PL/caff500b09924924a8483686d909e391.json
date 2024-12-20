@@ -2,22 +2,22 @@
   "id": "caff500b09924924a8483686d909e391",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 5600,
+      "paymentCurrencyAmount": 5040,
       "paymentCurrencyCode": "PLN",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "zł"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1104,
+      "basePayoutPrice": 998,
       "convenienceFee": 0,
       "currencyCode": "PLN",
-      "discount": 0,
-      "discountPrice": 5600,
+      "discount": 560,
+      "discountPrice": 5040,
       "originalPrice": 5600,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 1047,
+      "vat": 942,
       "voucherDiscount": 0
     }
   }
