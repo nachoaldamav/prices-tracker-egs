@@ -2,22 +2,22 @@
   "id": "9825fe4ca1ce41dc8199e1f513e073e2",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 600,
+      "paymentCurrencyAmount": 750,
       "paymentCurrencyCode": "SGD",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "S$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 403,
+      "basePayoutPrice": 503,
       "convenienceFee": 0,
       "currencyCode": "SGD",
-      "discount": 150,
-      "discountPrice": 600,
+      "discount": 0,
+      "discountPrice": 750,
       "originalPrice": 750,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 50,
+      "vat": 62,
       "voucherDiscount": 0
     }
   }

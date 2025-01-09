@@ -2,18 +2,18 @@
   "id": "92acefe8e4e845169ea160bb92e3e4e0",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 1029,
+      "paymentCurrencyAmount": 0,
       "paymentCurrencyCode": "GBP",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "£"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1284,
+      "basePayoutPrice": 0,
       "convenienceFee": 0,
       "currencyCode": "GBP",
-      "discount": 0,
-      "discountPrice": 1029,
+      "discount": 1029,
+      "discountPrice": 0,
       "originalPrice": 1029,
       "originalUnitPrice": null,
       "unitPrice": null,
