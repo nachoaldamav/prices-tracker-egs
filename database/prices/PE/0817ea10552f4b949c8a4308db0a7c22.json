@@ -2,22 +2,22 @@
   "id": "0817ea10552f4b949c8a4308db0a7c22",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 250,
+      "paymentCurrencyAmount": 125,
       "paymentCurrencyCode": "PEN",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "S/"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 57,
+      "basePayoutPrice": 28,
       "convenienceFee": 0,
       "currencyCode": "PEN",
-      "discount": 0,
-      "discountPrice": 250,
+      "discount": 125,
+      "discountPrice": 125,
       "originalPrice": 250,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 38,
+      "vat": 19,
       "voucherDiscount": 0
     }
   }
