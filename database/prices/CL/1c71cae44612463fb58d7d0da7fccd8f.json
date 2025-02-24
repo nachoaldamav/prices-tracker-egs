@@ -2,22 +2,22 @@
   "id": "1c71cae44612463fb58d7d0da7fccd8f",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 228000,
+      "paymentCurrencyAmount": 456000,
       "paymentCurrencyCode": "CLP",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 203,
+      "basePayoutPrice": 406,
       "convenienceFee": 0,
       "currencyCode": "CLP",
-      "discount": 228000,
-      "discountPrice": 228000,
+      "discount": 0,
+      "discountPrice": 456000,
       "originalPrice": 456000,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 36400,
+      "vat": 72800,
       "voucherDiscount": 0
     }
   }

@@ -2,22 +2,22 @@
   "id": "505b5e36f5ba46f6b57f90803f5d4f2f",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 129,
+      "paymentCurrencyAmount": 259,
       "paymentCurrencyCode": "NZD",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 65,
+      "basePayoutPrice": 129,
       "convenienceFee": 0,
       "currencyCode": "NZD",
-      "discount": 130,
-      "discountPrice": 129,
+      "discount": 0,
+      "discountPrice": 259,
       "originalPrice": 259,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 17,
+      "vat": 34,
       "voucherDiscount": 0
     }
   }

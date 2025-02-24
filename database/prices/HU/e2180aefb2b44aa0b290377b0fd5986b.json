@@ -2,22 +2,22 @@
   "id": "e2180aefb2b44aa0b290377b0fd5986b",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 50000,
+      "paymentCurrencyAmount": 200000,
       "paymentCurrencyCode": "HUF",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "Ft"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 102,
+      "basePayoutPrice": 409,
       "convenienceFee": 0,
       "currencyCode": "HUF",
-      "discount": 150000,
-      "discountPrice": 50000,
+      "discount": 0,
+      "discountPrice": 200000,
       "originalPrice": 200000,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 10600,
+      "vat": 42500,
       "voucherDiscount": 0
     }
   }
