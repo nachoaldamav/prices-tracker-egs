@@ -1,0 +1,24 @@
+{
+  "id": "28f74b6024054b2c931414c0d7f39cf5",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 12200,
+      "paymentCurrencyCode": "PLN",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "zł"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 2499,
+      "convenienceFee": 0,
+      "currencyCode": "PLN",
+      "discount": 0,
+      "discountPrice": 12200,
+      "originalPrice": 12200,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 2281,
+      "voucherDiscount": 0
+    }
+  }
+}
