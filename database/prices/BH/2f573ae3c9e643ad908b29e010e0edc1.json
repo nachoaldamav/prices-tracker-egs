@@ -1,0 +1,24 @@
+{
+  "id": "2f573ae3c9e643ad908b29e010e0edc1",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 9898,
+      "paymentCurrencyCode": "USD",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "$"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 8999,
+      "convenienceFee": 0,
+      "currencyCode": "USD",
+      "discount": 0,
+      "discountPrice": 9898,
+      "originalPrice": 9898,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 900,
+      "voucherDiscount": 0
+    }
+  }
+}
