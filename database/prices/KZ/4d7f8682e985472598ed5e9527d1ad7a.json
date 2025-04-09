@@ -2,22 +2,22 @@
   "id": "4d7f8682e985472598ed5e9527d1ad7a",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 25500,
+      "paymentCurrencyAmount": 51000,
       "paymentCurrencyCode": "KZT",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "₸"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 44,
+      "basePayoutPrice": 88,
       "convenienceFee": 0,
       "currencyCode": "KZT",
-      "discount": 25500,
-      "discountPrice": 25500,
+      "discount": 0,
+      "discountPrice": 51000,
       "originalPrice": 51000,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 2732,
+      "vat": 5464,
       "voucherDiscount": 0
     }
   }
