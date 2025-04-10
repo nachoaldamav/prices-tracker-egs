@@ -2,22 +2,22 @@
   "id": "8d12e910f50443dfb26e794d9f556f59",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 90000,
+      "paymentCurrencyAmount": 45000,
       "paymentCurrencyCode": "VND",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "₫"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 315,
+      "basePayoutPrice": 157,
       "convenienceFee": 0,
       "currencyCode": "VND",
-      "discount": 0,
-      "discountPrice": 90000,
+      "discount": 45000,
+      "discountPrice": 45000,
       "originalPrice": 90000,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 8182,
+      "vat": 4091,
       "voucherDiscount": 0
     }
   }
