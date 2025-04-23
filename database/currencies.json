@@ -11,6 +11,12 @@
     "description": "Australian Dollar",
     "symbol": "$"
   },
+  "BAM": {
+    "code": "BAM",
+    "decimals": 2,
+    "description": "Bosnian Convertible Mark",
+    "symbol": "KM"
+  },
   "BGN": {
     "code": "BGN",
     "decimals": 2,
@@ -22,6 +28,12 @@
     "decimals": 2,
     "description": "Brazilian Real",
     "symbol": "R$"
+  },
+  "BSD": {
+    "code": "BSD",
+    "decimals": 2,
+    "description": "Bahamian Dollar",
+    "symbol": "$"
   },
   "CAD": {
     "code": "CAD",
@@ -113,11 +125,23 @@
     "description": "Indian Rupee",
     "symbol": "₹"
   },
+  "ISK": {
+    "code": "ISK",
+    "decimals": 0,
+    "description": "Icelandic Krona",
+    "symbol": "kr"
+  },
   "JPY": {
     "code": "JPY",
     "decimals": 0,
     "description": "Japanese yen",
     "symbol": "¥"
+  },
+  "KPW": {
+    "code": "KPW",
+    "decimals": 2,
+    "description": "North Korean Won",
+    "symbol": "₩"
   },
   "KRW": {
     "code": "KRW",
@@ -125,11 +149,23 @@
     "description": "South Korean Won",
     "symbol": "₩"
   },
+  "KWD": {
+    "code": "KWD",
+    "decimals": 3,
+    "description": "Kuwaiti dinar",
+    "symbol": "KD"
+  },
   "KZT": {
     "code": "KZT",
     "decimals": 2,
     "description": "Kazakhstani tenge",
     "symbol": "₸"
+  },
+  "MAD": {
+    "code": "MAD",
+    "decimals": 2,
+    "description": "Moroccan Dirham",
+    "symbol": "Dirham"
   },
   "MXN": {
     "code": "MXN",
@@ -167,6 +203,12 @@
     "description": "Philippine peso",
     "symbol": "₱"
   },
+  "PKR": {
+    "code": "PKR",
+    "decimals": 2,
+    "description": "Pakistani Rupee",
+    "symbol": "₨"
+  },
   "PLN": {
     "code": "PLN",
     "decimals": 2,
@@ -184,6 +226,12 @@
     "decimals": 2,
     "description": "Romanian Leu",
     "symbol": "lei"
+  },
+  "RSD": {
+    "code": "RSD",
+    "decimals": 2,
+    "description": "Serbian Dinar",
+    "symbol": "РСД"
   },
   "RUB": {
     "code": "RUB",
