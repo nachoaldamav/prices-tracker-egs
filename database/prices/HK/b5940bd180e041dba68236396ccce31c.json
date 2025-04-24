@@ -2,18 +2,18 @@
   "id": "b5940bd180e041dba68236396ccce31c",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 1000,
+      "paymentCurrencyAmount": 2000,
       "paymentCurrencyCode": "HKD",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 129,
+      "basePayoutPrice": 258,
       "convenienceFee": 0,
       "currencyCode": "HKD",
-      "discount": 1000,
-      "discountPrice": 1000,
+      "discount": 0,
+      "discountPrice": 2000,
       "originalPrice": 2000,
       "originalUnitPrice": null,
       "unitPrice": null,

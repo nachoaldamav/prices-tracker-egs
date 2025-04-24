@@ -2,18 +2,18 @@
   "id": "70ec5e706b404d378762042f029b46ef",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 31500,
+      "paymentCurrencyAmount": 0,
       "paymentCurrencyCode": "PHP",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "₱"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 557,
+      "basePayoutPrice": 0,
       "convenienceFee": 0,
       "currencyCode": "PHP",
-      "discount": 0,
-      "discountPrice": 31500,
+      "discount": 31500,
+      "discountPrice": 0,
       "originalPrice": 31500,
       "originalUnitPrice": null,
       "unitPrice": null,
